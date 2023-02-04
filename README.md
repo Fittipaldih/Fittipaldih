@@ -3,7 +3,7 @@
 <h3 align="center">Web Developer in Argentina</h3>
 
 <h3 align="left">👇 Visit my Portfolio:</h3>
- https://fittipaldih.github.io/MiPortafolioPersonal
+ https://fittipaldih.github.io/PortafolioFittipaldi
 
  <h3 align="left">📩 How to reach me: </h3>
  
